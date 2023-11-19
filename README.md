@@ -38,3 +38,9 @@ Puedes añadir o eliminar extensiones de archivo y sus carpetas de destino corre
 
 Las contribuciones son bienvenidas. Si tienes una sugerencia para mejorar este gestor, por favor abre un issue o envía un pull request con tus cambios.
 
+## Licencia
+
+Este proyecto se lanza bajo la Licencia MIT. Esto significa que puedes usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del software final, siempre que incluyas una copia de la licencia MIT y los derechos de autor originales con el software.
+
+Para más detalles, consulta el archivo `LICENSE` incluido en este repositorio.
+
